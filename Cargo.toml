@@ -1,0 +1,3 @@
+[workspace]
+members = ["synth", "tui"]
+resolver = "2"
